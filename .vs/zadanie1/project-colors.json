@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8bf24ebb-74a6-4e25-8806-926e798efe73": {
+      "ProjectGuid": "8bf24ebb-74a6-4e25-8806-926e798efe73",
+      "DisplayName": "num1",
+      "ColorIndex": 0
+    },
+    "cd0af412-ebc7-43cf-bf2d-029a28cc2889": {
+      "ProjectGuid": "cd0af412-ebc7-43cf-bf2d-029a28cc2889",
+      "DisplayName": "num2",
+      "ColorIndex": 1
+    },
+    "08c9f3b8-39dd-4e8b-ad78-c7e6f1f52d1c": {
+      "ProjectGuid": "08c9f3b8-39dd-4e8b-ad78-c7e6f1f52d1c",
+      "DisplayName": "num5",
+      "ColorIndex": 2
+    },
+    "268e29b7-a967-446b-bae3-05948804cf19": {
+      "ProjectGuid": "268e29b7-a967-446b-bae3-05948804cf19",
+      "DisplayName": "num4",
+      "ColorIndex": 3
+    },
+    "19b3efbd-b188-43d0-8cdc-3be58bad2e41": {
+      "ProjectGuid": "19b3efbd-b188-43d0-8cdc-3be58bad2e41",
+      "DisplayName": "num3",
+      "ColorIndex": 4
+    },
+    "2f3811a5-7dc2-4c41-b096-13d250d4f2e7": {
+      "ProjectGuid": "2f3811a5-7dc2-4c41-b096-13d250d4f2e7",
+      "DisplayName": "num6",
+      "ColorIndex": 5
+    },
+    "001929ce-a3ce-4983-96cd-098697444d62": {
+      "ProjectGuid": "001929ce-a3ce-4983-96cd-098697444d62",
+      "DisplayName": "dop",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

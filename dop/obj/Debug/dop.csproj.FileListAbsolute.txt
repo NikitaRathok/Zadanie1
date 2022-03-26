@@ -1,0 +1,8 @@
+C:\TRASH\c#\zadanie1\dop\bin\Debug\dop.exe.config
+C:\TRASH\c#\zadanie1\dop\bin\Debug\dop.exe
+C:\TRASH\c#\zadanie1\dop\bin\Debug\dop.pdb
+C:\TRASH\c#\zadanie1\dop\obj\Debug\dop.csproj.AssemblyReference.cache
+C:\TRASH\c#\zadanie1\dop\obj\Debug\dop.csproj.SuggestedBindingRedirects.cache
+C:\TRASH\c#\zadanie1\dop\obj\Debug\dop.csproj.CoreCompileInputs.cache
+C:\TRASH\c#\zadanie1\dop\obj\Debug\dop.exe
+C:\TRASH\c#\zadanie1\dop\obj\Debug\dop.pdb
